@@ -1,0 +1,64 @@
+D:\MSVS_codes\RestaurantMagSystemSecond\bin\Debug\net8.0-windows\RestaurantMagSystemSecond.exe
+D:\MSVS_codes\RestaurantMagSystemSecond\bin\Debug\net8.0-windows\RestaurantMagSystemSecond.deps.json
+D:\MSVS_codes\RestaurantMagSystemSecond\bin\Debug\net8.0-windows\RestaurantMagSystemSecond.runtimeconfig.json
+D:\MSVS_codes\RestaurantMagSystemSecond\bin\Debug\net8.0-windows\RestaurantMagSystemSecond.dll
+D:\MSVS_codes\RestaurantMagSystemSecond\bin\Debug\net8.0-windows\RestaurantMagSystemSecond.pdb
+D:\MSVS_codes\RestaurantMagSystemSecond\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\MSVS_codes\RestaurantMagSystemSecond\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\MSVS_codes\RestaurantMagSystemSecond\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\MSVS_codes\RestaurantMagSystemSecond\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\MSVS_codes\RestaurantMagSystemSecond\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MSVS_codes\RestaurantMagSystemSecond\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MSVS_codes\RestaurantMagSystemSecond\obj\Debug\net8.0-windows\RestaurantMagSystemSecond.csproj.AssemblyReference.cache
+D:\MSVS_codes\RestaurantMagSystemSecond\obj\Debug\net8.0-windows\RestaurantMagSystemSecond.LogIn.resources
+D:\MSVS_codes\RestaurantMagSystemSecond\obj\Debug\net8.0-windows\RestaurantMagSystemSecond.Properties.Resources.resources
+D:\MSVS_codes\RestaurantMagSystemSecond\obj\Debug\net8.0-windows\RestaurantMagSystemSecond.UserCreation.resources
+D:\MSVS_codes\RestaurantMagSystemSecond\obj\Debug\net8.0-windows\RestaurantMagSystemSecond.csproj.GenerateResource.cache
+D:\MSVS_codes\RestaurantMagSystemSecond\obj\Debug\net8.0-windows\RestaurantMagSystemSecond.GeneratedMSBuildEditorConfig.editorconfig
+D:\MSVS_codes\RestaurantMagSystemSecond\obj\Debug\net8.0-windows\RestaurantMagSystemSecond.AssemblyInfoInputs.cache
+D:\MSVS_codes\RestaurantMagSystemSecond\obj\Debug\net8.0-windows\RestaurantMagSystemSecond.AssemblyInfo.cs
+D:\MSVS_codes\RestaurantMagSystemSecond\obj\Debug\net8.0-windows\RestaurantMagSystemSecond.csproj.CoreCompileInputs.cache
+D:\MSVS_codes\RestaurantMagSystemSecond\obj\Debug\net8.0-windows\RestaurantMagSystemSecond.csproj.CopyComplete
+D:\MSVS_codes\RestaurantMagSystemSecond\obj\Debug\net8.0-windows\RestaurantMagSystemSecond.dll
+D:\MSVS_codes\RestaurantMagSystemSecond\obj\Debug\net8.0-windows\refint\RestaurantMagSystemSecond.dll
+D:\MSVS_codes\RestaurantMagSystemSecond\obj\Debug\net8.0-windows\RestaurantMagSystemSecond.pdb
+D:\MSVS_codes\RestaurantMagSystemSecond\obj\Debug\net8.0-windows\RestaurantMagSystemSecond.genruntimeconfig.cache
+D:\MSVS_codes\RestaurantMagSystemSecond\obj\Debug\net8.0-windows\ref\RestaurantMagSystemSecond.dll
+D:\MSVS_codes\RestaurantMagSystemSecond\obj\Debug\net8.0-windows\RestaurantMagSystemSecond.PassManagement.resources
+D:\MSVS_codes\RestaurantMagSystemSecond\obj\Debug\net8.0-windows\RestaurantMagSystemSecond.AdminFunctions.resources
+D:\MSVS_codes\RestaurantMagSystemSecond\obj\Debug\net8.0-windows\RestaurantMagSystemSecond.MainPage.resources
+D:\MSVS_codes\RestaurantMagSystemSecond\obj\Debug\net8.0-windows\RestaurantMagSystemSecond.FoodMenuForm.resources
+D:\MSVS_codes\RestaurantMagSystemSecond\obj\Debug\net8.0-windows\RestaurantMagSystemSecond.PaymentForm.resources
+D:\MSVS_codes\RestaurantMagSystemSecond\obj\Debug\net8.0-windows\RestaurantMagSystemSecond.UserBankRelatedInfoForm.resources
+C:\Users\User\Desktop\Finished projects\RestaurantMagSystemSecond\bin\Debug\net8.0-windows\RestaurantMagSystemSecond.exe
+C:\Users\User\Desktop\Finished projects\RestaurantMagSystemSecond\bin\Debug\net8.0-windows\RestaurantMagSystemSecond.deps.json
+C:\Users\User\Desktop\Finished projects\RestaurantMagSystemSecond\bin\Debug\net8.0-windows\RestaurantMagSystemSecond.runtimeconfig.json
+C:\Users\User\Desktop\Finished projects\RestaurantMagSystemSecond\bin\Debug\net8.0-windows\RestaurantMagSystemSecond.dll
+C:\Users\User\Desktop\Finished projects\RestaurantMagSystemSecond\bin\Debug\net8.0-windows\RestaurantMagSystemSecond.pdb
+C:\Users\User\Desktop\Finished projects\RestaurantMagSystemSecond\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Finished projects\RestaurantMagSystemSecond\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\Finished projects\RestaurantMagSystemSecond\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\Finished projects\RestaurantMagSystemSecond\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\Finished projects\RestaurantMagSystemSecond\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Finished projects\RestaurantMagSystemSecond\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Finished projects\RestaurantMagSystemSecond\obj\Debug\net8.0-windows\RestaurantMagSystemSecond.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Finished projects\RestaurantMagSystemSecond\obj\Debug\net8.0-windows\RestaurantMagSystemSecond.AdminFunctions.resources
+C:\Users\User\Desktop\Finished projects\RestaurantMagSystemSecond\obj\Debug\net8.0-windows\RestaurantMagSystemSecond.FoodMenuForm.resources
+C:\Users\User\Desktop\Finished projects\RestaurantMagSystemSecond\obj\Debug\net8.0-windows\RestaurantMagSystemSecond.LogIn.resources
+C:\Users\User\Desktop\Finished projects\RestaurantMagSystemSecond\obj\Debug\net8.0-windows\RestaurantMagSystemSecond.MainPage.resources
+C:\Users\User\Desktop\Finished projects\RestaurantMagSystemSecond\obj\Debug\net8.0-windows\RestaurantMagSystemSecond.PassManagement.resources
+C:\Users\User\Desktop\Finished projects\RestaurantMagSystemSecond\obj\Debug\net8.0-windows\RestaurantMagSystemSecond.PaymentForm.resources
+C:\Users\User\Desktop\Finished projects\RestaurantMagSystemSecond\obj\Debug\net8.0-windows\RestaurantMagSystemSecond.Properties.Resources.resources
+C:\Users\User\Desktop\Finished projects\RestaurantMagSystemSecond\obj\Debug\net8.0-windows\RestaurantMagSystemSecond.UserBankRelatedInfoForm.resources
+C:\Users\User\Desktop\Finished projects\RestaurantMagSystemSecond\obj\Debug\net8.0-windows\RestaurantMagSystemSecond.UserCreation.resources
+C:\Users\User\Desktop\Finished projects\RestaurantMagSystemSecond\obj\Debug\net8.0-windows\RestaurantMagSystemSecond.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Finished projects\RestaurantMagSystemSecond\obj\Debug\net8.0-windows\RestaurantMagSystemSecond.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Finished projects\RestaurantMagSystemSecond\obj\Debug\net8.0-windows\RestaurantMagSystemSecond.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Finished projects\RestaurantMagSystemSecond\obj\Debug\net8.0-windows\RestaurantMagSystemSecond.AssemblyInfo.cs
+C:\Users\User\Desktop\Finished projects\RestaurantMagSystemSecond\obj\Debug\net8.0-windows\RestaurantMagSystemSecond.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Finished projects\RestaurantMagSystemSecond\obj\Debug\net8.0-windows\RestaurantMagSystemSecond.csproj.CopyComplete
+C:\Users\User\Desktop\Finished projects\RestaurantMagSystemSecond\obj\Debug\net8.0-windows\RestaurantMagSystemSecond.dll
+C:\Users\User\Desktop\Finished projects\RestaurantMagSystemSecond\obj\Debug\net8.0-windows\refint\RestaurantMagSystemSecond.dll
+C:\Users\User\Desktop\Finished projects\RestaurantMagSystemSecond\obj\Debug\net8.0-windows\RestaurantMagSystemSecond.pdb
+C:\Users\User\Desktop\Finished projects\RestaurantMagSystemSecond\obj\Debug\net8.0-windows\RestaurantMagSystemSecond.genruntimeconfig.cache
+C:\Users\User\Desktop\Finished projects\RestaurantMagSystemSecond\obj\Debug\net8.0-windows\ref\RestaurantMagSystemSecond.dll
